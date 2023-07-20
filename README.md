@@ -2,7 +2,7 @@
 
 <img align="right" width="300" height="230" src="https://leaf.readthedocs.io/en/latest/_static/logo.svg">
 
-LEAF is based on [SimPy](https://simpy.readthedocs.io/en/latest/) for discrete-event simulation and [NetworkX](https://networkx.org/) for modeling infrastructure or application graphs made by Philipp Wiesner and Lauritz Thamsen
+LEAF is based on [SimPy](https://simpy.readthedocs.io/en/latest/) for discrete-event simulation and [NetworkX](https://networkx.org/) for modeling infrastructure or application graphs made by [Philipp Wiesner and Lauritz Thamsen](https://github.com/dos-group/leaf/)
 
 
 The Files for the Simulations can be found in the leaf folder, which has the basic leaf files that have been predefined, as well as the source code that was written for the scenarios that were formed. 
